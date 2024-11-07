@@ -51,10 +51,10 @@ function addAlertButton() {
     // Get the current YouTube URL
     const currentUrl = window.location.href;
 
-    // Replace "https://www.youtube.com/" with "https://www.thegoodgametheory.com/"
+    // Replace "https://www.youtube.com/" with "https://www.gameyoutube.com/"
     const modifiedUrl = currentUrl.replace(
       "https://www.youtube.com/",
-      "https://www.thegoodgametheory.com/"
+      "https://www.gameyoutube.com/"
     );
 
     // Open the modified URL in a new tab
