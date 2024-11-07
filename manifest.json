@@ -4,6 +4,11 @@
   "version": "1.0",
   "description": "Adds a button on YouTube videos that shows an alert on click.",
   "permissions": [],
+  "icons": {
+    "16": "images/icon.png",
+    "48": "images/icon.png",
+    "128": "images/icon.png"
+  },
   "content_scripts": [
     {
       "matches": ["https://www.youtube.com/watch*"],
