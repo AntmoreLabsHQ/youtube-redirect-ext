@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Redirection",
+  "version": "1.0",
+  "description": "Adds a button on YouTube videos that shows an alert on click.",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/watch*"],
+      "js": ["content.js"]
+    }
+  ]
+}
