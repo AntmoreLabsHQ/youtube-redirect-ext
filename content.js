@@ -23,8 +23,8 @@ function addAlertButton() {
   alertButton.style.width = "30px"; // Adjust size as needed
   alertButton.style.height = "30px"; // Adjust size as needed
   alertButton.style.cursor = "pointer";
-  alertButton.style.marginLeft = "10px"; // Space between mute button and alert button
-  alertButton.style.marginRight = "10px"; // Space between mute button and alert button
+  alertButton.style.marginLeft = "20px"; // Space between mute button and alert button
+  alertButton.style.marginRight = "20px"; // Space between mute button and alert button
   alertButton.style.display = "inline-flex";
   alertButton.style.alignItems = "center";
   alertButton.style.justifyContent = "center";

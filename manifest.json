@@ -5,9 +5,9 @@
   "description": "Adds a button on YouTube videos that shows an alert on click.",
   "permissions": [],
   "icons": {
-    "16": "images/icon.png",
-    "48": "images/icon.png",
-    "128": "images/icon.png"
+    "16": "images/image.png",
+    "48": "images/image.png",
+    "128": "images/image.png"
   },
   "content_scripts": [
     {
